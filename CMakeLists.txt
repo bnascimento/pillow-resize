@@ -73,7 +73,7 @@ set(PILLOWRESIZE_LIBS PillowResize)
 #
 # Add executable
 #
-add_subdirectory(bin)
+#add_subdirectory(bin)
 
 #
 # Installation support
